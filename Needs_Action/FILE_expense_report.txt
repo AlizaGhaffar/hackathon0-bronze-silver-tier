@@ -1,0 +1,1 @@
+Q1 expenses: office supplies 500, software 1200, travel 800.

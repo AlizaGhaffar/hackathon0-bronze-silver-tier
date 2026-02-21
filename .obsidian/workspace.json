@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "5c4d0e90e7af216c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9ef915bbb11e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8384c9c255ca390c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/triage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "triage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "401031f1c8695ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "774f522a3c938427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5f860a97907b52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09337084a7595bfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4d0b8f4635db5ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acae0ab9876c4899",
+    "type": "split",
+    "children": [
+      {
+        "id": "6795ca17ece568c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2e48641e9e27e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skills/triage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for triage"
+            }
+          },
+          {
+            "id": "a1386e32308eba9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skills/triage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from triage"
+            }
+          },
+          {
+            "id": "5f7655e71553813d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "456c571673597c4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1bb659b60d38e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skills/triage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of triage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8384c9c255ca390c",
+  "lastOpenFiles": [
+    "Skills/file-and-tag.md",
+    "Done/FILE_Receipt-2923-3039-1946.md",
+    "Done/FILE_Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026_converted.md",
+    "Plans/PLAN_Receipt-2923-3039-1946.md",
+    "Needs_Action/FILE_Receipt-2923-3039-1946.pdf",
+    "Company_Handbook.md",
+    "Dashboard.md",
+    "Done/FILE_expense_report.md",
+    "Done/FILE_Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md",
+    "Done/2026-02-15_EMAIL_DRAFT_Silver Tier Complete - AI Employee Update_2026-02-15_11-47-31.md",
+    "Hackathon_Guide.md"
+  ]
+}

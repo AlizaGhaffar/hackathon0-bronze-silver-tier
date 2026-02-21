@@ -1,0 +1,44 @@
+[2026-02-15 19:59:56] LinkedInWatcher: LinkedIn Watcher ready (0 previously processed)
+[2026-02-15 19:59:56] LinkedInWatcher: Starting LinkedInWatcher (interval: 60s)
+[2026-02-15 20:00:20] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:00:22] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:04:59] LinkedInWatcher: LinkedIn Watcher ready (0 previously processed)
+[2026-02-15 20:04:59] LinkedInWatcher: Starting LinkedInWatcher (interval: 60s)
+[2026-02-15 20:05:19] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:05:20] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:06:40] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:06:41] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:07:45] LinkedInWatcher: LinkedIn Watcher ready (0 previously processed)
+[2026-02-15 20:07:45] LinkedInWatcher: Starting LinkedInWatcher (interval: 60s)
+[2026-02-15 20:08:04] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:08:05] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:09:25] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:09:28] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:10:49] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:10:50] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:12:10] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:12:11] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:13:31] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:13:31] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:14:50] LinkedInWatcher: LinkedIn page not ready — is the user logged in? First run requires manual login in the browser window.
+[2026-02-15 20:14:51] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:15:58] LinkedInWatcher: LinkedIn Watcher ready (0 previously processed)
+[2026-02-15 20:15:58] LinkedInWatcher: Starting LinkedInWatcher (interval: 60s)
+[2026-02-15 20:16:12] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:17:27] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:18:50] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:19:55] LinkedInWatcher: LinkedIn Watcher ready (0 previously processed)
+[2026-02-15 20:19:55] LinkedInWatcher: Starting LinkedInWatcher (interval: 60s)
+[2026-02-15 20:19:55] LinkedInWatcher: Launching persistent browser (stays open)...
+[2026-02-15 20:20:10] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:21:12] LinkedInWatcher: LinkedIn check error: Page.goto: Navigation to "https://www.linkedin.com/messaging/" is interrupted by another navigation to "https://www.linkedin.com/feed?nis=true&%27%27=true&skipRedirect=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B44ef7fac-afd8-4488-9d8d-428fb00bdab9"
+Call log:
+  - navigating to "https://www.linkedin.com/messaging/", waiting until "domcontentloaded"
+
+[2026-02-15 20:21:12] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:22:24] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:23:34] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:25:33] LinkedInWatcher: LinkedIn page not ready — will retry next cycle. (Browser stays open)
+[2026-02-15 20:25:33] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:26:40] LinkedInWatcher: No new keyword-matched LinkedIn messages
+[2026-02-15 20:27:49] LinkedInWatcher: No new keyword-matched LinkedIn messages

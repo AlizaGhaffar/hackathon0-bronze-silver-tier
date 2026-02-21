@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": ["D:\\hack0aliza\\mcp_servers\\email_server.py"]
+    }
+  }
+}
